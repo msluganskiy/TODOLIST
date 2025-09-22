@@ -24,3 +24,7 @@ Backlog (План разработки)
 ### Backend
 1. [Создание сервера nodjs + express](https://ru.yougile.com/team/e7dc20e21c4e/#chat:eb14ca37da35)
 2. [Создание endpont'ов для Fronend'a](https://ru.yougile.com/team/e7dc20e21c4e/#chat:568fb084d0fe)
+
+### Прототип проекта
+
+ ![Альтернативный текст](img/1.png)
