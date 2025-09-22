@@ -13,3 +13,14 @@
 1. msluganskiy Луганский Михаил
 2. 
 3. 
+
+Backlog (План разработки)
+
+### Frontend
+1. [Разработка каркаса приложения (react).](https://ru.yougile.com/team/e7dc20e21c4e/#chat:106bca785c1d)
+2. [Создание методов редактирования, сохранения, удаления заметок (API)](https://ru.yougile.com/team/e7dc20e21c4e/#chat:986453b9ff2c)
+3. [CSS наведение красоты](https://ru.yougile.com/team/e7dc20e21c4e/#chat:6c5dd990219e)
+
+### Backend
+1. [Создание сервера nodjs + express](https://ru.yougile.com/team/e7dc20e21c4e/#chat:eb14ca37da35)
+2. [Создание endpont'ов для Fronend'a](https://ru.yougile.com/team/e7dc20e21c4e/#chat:568fb084d0fe)
