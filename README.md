@@ -12,7 +12,7 @@
 Команда:
 1. msluganskiy Луганский Михаил
 2. vinsproduction Поляков Василий
-3. 
+3. Alexnoch Хараин Александр
 
 Backlog (План разработки)
 
