@@ -38,10 +38,10 @@ function App() {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         const result = await response.json();
-
-        setTodos(JSON.parse(result.data)); // < -- тут у тебя приходит стринг а не json
+        setTodos(result.data);
       } catch (err) {
-        setTodos([]); // < --- тут нельзя делать ошикбку, это нарущает типизацию, оно ждет массив
+        console.log('ERR fetch')
+        setTodos([]);
       }
     };
 
