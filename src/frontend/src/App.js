@@ -40,6 +40,7 @@ function App() {
         const result = await response.json();
         setTodos(result.data);
       } catch (err) {
+
         setTodos('Err');
       }
     };
