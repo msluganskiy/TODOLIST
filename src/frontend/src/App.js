@@ -40,8 +40,8 @@ function App() {
         const result = await response.json();
         setTodos(result.data);
       } catch (err) {
-        console.log('ERR fetch')
-        setTodos([]);
+
+        setTodos('Err');
       }
     };
 
